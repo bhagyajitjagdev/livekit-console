@@ -1,0 +1,14 @@
+.git
+.github
+docs
+deploy
+**/node_modules
+**/.venv
+**/__pycache__
+**/dist
+**/.env
+**/.env.*
+!**/.env.example
+*.md
+Dockerfile
+.dockerignore

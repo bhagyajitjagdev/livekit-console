@@ -1,0 +1,24 @@
+LiveKit Console
+Copyright (c) 2026 Bhagyajit Jagdev
+
+This project is an independent, community-built console for LiveKit. It is not
+affiliated with, endorsed by, or sponsored by LiveKit, Inc.
+
+"LiveKit" is a trademark of LiveKit, Inc. The name is used here only to
+describe what this software works with.
+
+The GitHub logo is a trademark of GitHub, Inc., used solely to link to this
+project's repository.
+
+This project builds on the following, under their own licences:
+
+  livekit-api, livekit-protocol          Apache-2.0   LiveKit, Inc.
+  FastAPI                                MIT          Sebastián Ramírez
+  Pydantic                               MIT          Pydantic Services Inc.
+  Uvicorn                                BSD-3        Encode OSS Ltd.
+  React                                  MIT          Meta Platforms, Inc.
+  TanStack Router, TanStack Query        MIT          Tanner Linsley
+  Tailwind CSS                           MIT          Tailwind Labs, Inc.
+  shadcn/ui                              MIT          shadcn
+  Radix UI                               MIT          WorkOS
+  Lucide                                 ISC          Lucide Contributors
